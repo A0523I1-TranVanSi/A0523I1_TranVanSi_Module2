@@ -1,6 +1,4 @@
-package Practice;
-
-import java.util.Scanner;
+package practice;
 
 public class Rectangle {
     double width , height ;
